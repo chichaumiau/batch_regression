@@ -1,0 +1,113 @@
+Pluripotency genes	funct_cat
+Myc	Cell cycle
+Cdc20	Cell cycle
+Ccnf	Cell cycle
+Bub1	Cell cycle
+Tert	Cell cycle
+Dnmt3l	Chromatin
+Dnmt3a	Chromatin
+Dnmt3b	Chromatin
+Prmt7	Chromatin
+Tet1	Chromatin
+Jarid2	Chromatin
+Suz12	Chromatin
+Bmi1	Chromatin
+Tet2	Chromatin
+Smarca4	Chromatin
+Lsd1	Chromatin
+Ezh2	Chromatin
+Hdac1	Chromatin
+Ezh1	Chromatin
+Smarcd1	Chromatin
+Eed	Chromatin
+Smarcc1	Chromatin
+Kdm6a	Chromatin
+T	Differentiation
+Gata3	Differentiation
+Sox1	Differentiation
+Sox7	Differentiation
+Eomes	Differentiation
+Pax6	Differentiation
+Gata6	Differentiation
+Nestin	Differentiation
+Gata4	Differentiation
+Sox17	Differentiation
+Cdx2	Differentiation
+Dazl	Germ cell
+Blimp1 (Prdm1)	Germ cell
+Gapdh	Housekeeping
+Hprt	Housekeeping
+Pfkl	Metabolism
+Cox7a1	Metabolism
+Cox6b2	Metabolism
+Idh1	Metabolism
+Pfkfb1	Metabolism
+Pfkm	Metabolism
+Hif1a	Metabolism
+Pygl	Metabolism
+Pfkp	Metabolism
+Sco2	Metabolism
+Hk2	Metabolism
+PPARGC1A	Metabolism
+Idh2	Metabolism
+Cer1	Metabolism
+Cox8c	Metabolism
+LIn28a	Pluripotency
+Utf1	Pluripotency
+Tbx3	Pluripotency
+Tfcp2l1	Pluripotency
+Otx2	Pluripotency
+Klf2	Pluripotency
+Tdgf1	Pluripotency
+Klf4	Pluripotency
+Tead1	Pluripotency
+Nanog	Pluripotency
+Fbxo15	Pluripotency
+Prdm14	Pluripotency
+Esrrb	Pluripotency
+Klf5	Pluripotency
+Dppa4	Pluripotency
+Tcf7l1	Pluripotency
+Sall1	Pluripotency
+Dppa2	Pluripotency
+Nr5a2	Pluripotency
+Tfap2c	Pluripotency
+Sox2	Pluripotency
+Hesx1	Pluripotency
+Zfp42 (Rex1)	Pluripotency
+Etv5	Pluripotency
+Sall4	Pluripotency
+Nr0b1	Pluripotency
+Oct4 (Pou5f1)	Pluripotency
+Stella (Dppa3)	Pluripotency
+Gdf3	Pluripotency
+Tead2	Pluripotency
+Nr6a1	Pluripotency
+Id1	Signaling
+Hes1	Signaling
+Jag1	Signaling
+gsk3b	Signaling
+Lefty1	Signaling
+Lifr	Signaling
+Bmp4	Signaling
+Rarb	Signaling
+Rara	Signaling
+Wnt3	Signaling
+Fgf5	Signaling
+Id2	Signaling
+Smad3	Signaling
+Rarg	Signaling
+Socs3	Signaling
+Bmpr1a	Signaling
+Nodal	Signaling
+Fgf4	Signaling
+Gp130	Signaling
+Tgfb2	Signaling
+Lefty2	Signaling
+Itgb1	Surface marker
+Icam1	Surface marker
+Cd31	Surface marker
+Cdh1	Surface marker
+Fut4	Surface marker
+Zscan4c	Totipotent subpop marker
+Hhex	Totipotent subpop marker
