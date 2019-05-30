@@ -1,9 +1,0 @@
-MANIFEST.in
-README.md
-setup.py
-scanpy_utils/__init__.py
-scanpy_utils.egg-info/PKG-INFO
-scanpy_utils.egg-info/SOURCES.txt
-scanpy_utils.egg-info/dependency_links.txt
-scanpy_utils.egg-info/requires.txt
-scanpy_utils.egg-info/top_level.txt
